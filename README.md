@@ -88,7 +88,7 @@ The model achieved an R² score of 0.8758, indicating that it explains approxima
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/house-price-prediction-ml.git
+git clone https://github.com/Jeevan-33/house-price-prediction-ml.git
 ```
 
 **2. Navigate to the project directory**
@@ -115,7 +115,7 @@ Place both files in the project directory.
 jupyter notebook
 ```
 
-Open `house_price_prediction.ipynb` and run the cells.
+Open `House_Price_Prediction_using_ML_Project.ipynb` and run the cells.
 
 ## 🎯 Learning Outcomes
 
